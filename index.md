@@ -25,7 +25,7 @@ CGPA: **5.00** (out of **5.00**)
 ## HONORS & ACHIEVEMENTS
 ---
 
-* 52<sup>rd</sup> position (Team - PUC Eternals) at [[The 2016 ACM-ICPC Asia Dhaka Regional Contest](https://icpc.global/regionals/finder/dhaka-2016/standings)](https://algo.codemarshal.org/contests/dhaka-22/standings)
+* 52<sup>rd</sup> position (Team - PUC Eternals) at **2022 ICPC ASIA DHAKA REGIONAL CONTEST hosted by GREEN UNIVERSITY OF BANGLADESH** (https://algo.codemarshal.org/contests/dhaka-22/standings)
 * Recipient of Merit Based Scholarship at Premier University
 
 
