@@ -16,7 +16,7 @@ CGPA: **3.50** (out of **4.00**)
 CGPA: **4.75** (out of **5.00**)
 
 ### Abdus Sobhan Rahat Ali High School
-*Secondary School Certificate-SSC* 
+*Secondary School Certificate-SSC*  <br>
 CGPA: **5.00** (out of **5.00**)
  
 <br />
@@ -25,7 +25,8 @@ CGPA: **5.00** (out of **5.00**)
 ## HONORS & ACHIEVEMENTS
 ---
 
-* 52<sup>rd</sup> position (Team - PUC Eternals) at **2022 ICPC ASIA DHAKA REGIONAL CONTEST hosted by GREEN UNIVERSITY OF BANGLADESH** (https://algo.codemarshal.org/contests/dhaka-22/standings)
+* 52<sup>th</sup> position (Team - PUC Eternals) at **2022 ICPC ASIA DHAKA REGIONAL CONTEST hosted by GREEN UNIVERSITY OF BANGLADESH** (https://algo.codemarshal.org/contests/dhaka-22/standings)
+* 84<sup>th</sup> position (Team - PUC Eternals) at **2022 ICPC Asia Dhaka Regional Online Preliminary Contest Hosted by Green University of Bangladesh** (https://algo.codemarshal.org/contests/icpc-dhaka-22-preli/standings)
 * Recipient of Merit Based Scholarship at Premier University
 
 
