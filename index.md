@@ -9,15 +9,15 @@ title: Resume
 ---
 ### Premier University  
 *Bachelor of Science in Computer Science (Jan 2019 - Aug 2024)*  
-CGPA: **3.50** (out of **4.00**) 
+CGPA: **3.99** (out of **4.00**) 
 
 ### Patiya Government College
 *Higher Secondary Certificate-HSC*  
-CGPA: **4.75** (out of **5.00**)
+GPA: **4.75** (out of **5.00**)
 
 ### Abdus Sobhan Rahat Ali High School
 *Secondary School Certificate-SSC*  <br>
-CGPA: **5.00** (out of **5.00**)
+GPA: **5.00** (out of **5.00**)
  
 <br />
 
