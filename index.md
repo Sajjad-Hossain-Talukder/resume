@@ -37,15 +37,15 @@ CGPA: **5.00** (out of **5.00**)
 <br />
 
 ---
-## PROJECT
+## COURSE PROJECT
 ---
-* **[Test Automation Boilerplate](https://github.com/Tahanima/test-automation-boilerplate):** Ready to use UI Test Automation Architecture  
-**Tools** &#124; **Technologies:** Java, Selenium WebDriver, TestNG, AssertJ, EventReports, JavaFaker, Git 
+* **[Automated Attendance Management](https://www.kaggle.com/sajjadhossaint/auto-attendance-using-cnn):** Automated Attendance system  
+ **Technologies:** Python, Kaggle 
 
 <br />
   
 ---
 ## SKILLS  
 ---
-* **Languages:** Java, C++, Ruby, SQL
+* **Languages:** C, C++, Python, SQL
 * **Tools** &#124; **Technologies:** Selenium WebDriver, Gradle, TestNG, Jekyll, Git, JIRA
