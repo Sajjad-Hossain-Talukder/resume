@@ -24,12 +24,12 @@ CGPA: **5.00** (out of **5.00**)
 ---
 ## HONORS & ACHIEVEMENTS
 ---
-
-* 52<sup>th</sup> position (Team - PUC Eternals) at **2022 ICPC ASIA DHAKA REGIONAL CONTEST hosted by GREEN UNIVERSITY OF BANGLADESH** (https://algo.codemarshal.org/contests/dhaka-22/standings)
-* 84<sup>th</sup> position (Team - PUC Eternals) at **2022 ICPC Asia Dhaka Regional Online Preliminary Contest Hosted by Green University of Bangladesh** (https://algo.codemarshal.org/contests/icpc-dhaka-22-preli/standings)
-* 93<sup>th</sup> position (Team - PUC Eternals) at **ICPC ASIA DHAKA REGIONAL CONTEST 2021 hosted by BUBT** (https://algo.codemarshal.org/contests/dhaka-21-main/standings)
-* 106<sup>th</sup> position (Team - PUC Eternals) at **2021 ICPC Asia Dhaka Regional Online Preliminary Contest Hosted by BUBT** (https://algo.codemarshal.org/contests/icpc-dhaka-21-preli/standings)
-* 141<sup>th</sup> position (Team - PUC Noob Coders) at **MIST NCPC 2020** (https://algo.codemarshal.org/contests/mist-ncpc-2020/standings)
+<a href=""> **** </a>
+* 52<sup>th</sup> position (Team - PUC Eternals) at <a href="https://algo.codemarshal.org/contests/dhaka-22/standings"> **2022 ICPC ASIA DHAKA REGIONAL CONTEST hosted by GREEN UNIVERSITY OF BANGLADESH** </a>
+* 84<sup>th</sup> position (Team - PUC Eternals) at <a href="https://algo.codemarshal.org/contests/icpc-dhaka-22-preli/standings"> **2022 ICPC Asia Dhaka Regional Online Preliminary Contest Hosted by Green University of Bangladesh** </a>
+* 93<sup>th</sup> position (Team - PUC Eternals) at <a href="https://algo.codemarshal.org/contests/dhaka-21-main/standings"> **ICPC ASIA DHAKA REGIONAL CONTEST 2021 hosted by BUBT**  </a> 
+* 106<sup>th</sup> position (Team - PUC Eternals) at <a href="https://algo.codemarshal.org/contests/icpc-dhaka-21-preli/standings"> **2021 ICPC Asia Dhaka Regional Online Preliminary Contest Hosted by BUBT** </a> 
+* 141<sup>th</sup> position (Team - PUC Noob Coders) at <a href="https://algo.codemarshal.org/contests/mist-ncpc-2020/standings"> **MIST NCPC 2020** </a>  
 * Recipient of Merit Based Scholarship at Premier University
 
 
