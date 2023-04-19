@@ -22,18 +22,32 @@ GPA: **5.00** (out of **5.00**)
 <br />
 
 ---
+## Online Judges Handle
+---
+
+<ul>
+ <li> <a href="https://codeforces.com/profile/SajjadHuseyn"> <b>Codeforces</b> </a></li>
+ <li> <a href="https://codeforces.com/profile/SajjadHuseyn"> <b>CodeChef</b> </a></li>
+ <li> <a href="https://codeforces.com/profile/SajjadHuseyn"> <b>LightOJ</b> </a></li>
+ <li> <a href="https://codeforces.com/profile/SajjadHuseyn"> <b>AtCoder</b> </a></li>
+ <li> <a href="https://codeforces.com/profile/SajjadHuseyn"> <b>Leetcode</b> </a></li>
+ </ul>
+
+<br/>
+
+---
 ## HONORS & ACHIEVEMENTS
 ---
-<a href=""> **** </a>
+
 * 52<sup>nd</sup> position (Team - PUC Eternals) at <a href="https://algo.codemarshal.org/contests/dhaka-22/standings"> **2022 ICPC ASIA DHAKA REGIONAL CONTEST hosted by GREEN UNIVERSITY OF BANGLADESH** </a>
 * 84<sup>th</sup> position (Team - PUC Eternals) at <a href="https://algo.codemarshal.org/contests/icpc-dhaka-22-preli/standings"> **2022 ICPC Asia Dhaka Regional Online Preliminary Contest Hosted by Green University of Bangladesh** </a>
 * 86<sup>th</sup> position (Team - PUC Eternals) at <a href="https://toph.co/c/buet-inter-university-2022/standings"> **BUET Inter University Programming Contest 2022** </a>  
 * 93<sup>rd</sup> position (Team - PUC Eternals) at <a href="https://algo.codemarshal.org/contests/dhaka-21-main/standings"> **ICPC ASIA DHAKA REGIONAL CONTEST 2021 hosted by BUBT**  </a> 
 * 106<sup>th</sup> position (Team - PUC Eternals) at <a href="https://algo.codemarshal.org/contests/icpc-dhaka-21-preli/standings"> **2021 ICPC Asia Dhaka Regional Online Preliminary Contest Hosted by BUBT** </a> 
 * 141<sup>st</sup> position (Team - PUC Noob Coders) at <a href="https://algo.codemarshal.org/contests/mist-ncpc-2020/standings"> **MIST NCPC 2020** </a>  
-* Recipient of Merit Based Scholarship at Premier University
-
-
+* 18<sup>th</sup> position (Team - PUC Eternals) at <a href="https://toph.co/c/cuet-cse-fest-2022-inter-university-divisional/standings"> **CUET CSE Fest 2022 - Inter University Programming Contest (Divisional)** </a>
+* 10<sup>th</sup> position (Team - PUC Eternals) at <a href="https://shorturl.at/bDIVY"> **EDU Inter University Programming Contest-2022** </a>  
+*   Recipient of Merit Based Scholarship at Premier University
 
 <br />
 
