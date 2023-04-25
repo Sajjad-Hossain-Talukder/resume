@@ -52,10 +52,13 @@ GPA: **5.00** (out of **5.00**)
 <br />
 
 ---
-## COURSE PROJECT
+## COURSE PROJECTS
 ---
 * **[Automated Attendance Management](https://www.kaggle.com/sajjadhossaint/auto-attendance-using-cnn):** Automated Attendance system  
- **Technologies:** Python, Kaggle 
+ **Technologies:** Python, CNN, Kaggle 
+* **[Acamedic Information System](https://github.com/Sajjad-Hossain-Talukder/PUAIS-Enrollment-Section):** Enrollment Section<br>
+ **Technologies:** PHP(Laravel)
+
 
 <br />
   
