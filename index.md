@@ -58,8 +58,8 @@ GPA: **5.00** (out of **5.00**)
  **Technologies:** Python, CNN, Kaggle 
 * **[Acamedic Information System](https://github.com/Sajjad-Hossain-Talukder/PUAIS-Enrollment-Section):** Enrollment Section<br>
  **Technologies:** PHP(Laravel Framework), MySQL DB
-
-
+* **[SmartWeight ](https://github.com/Sajjad-Hossain-Talukder/SmartWeight-RaspberryPi-HX711-based-Digital-Weight-Machine-with-Object-Detection):*RaspberryPi-HX711 based Digital Weight Machine with Object Detection* <br>
+ **Technologies:** Python, MySQL DB , RaspberryPi, HX711 Module, Load Cell 
 <br />
   
 ---
