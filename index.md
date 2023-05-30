@@ -9,7 +9,7 @@ title: Resume
 ---
 ### Premier University  
 *Bachelor of Science in Computer Science (Jan 2019 - Aug 2024)*  
-CGPA: **3.99** (out of **4.00**) 
+CGPA: **2.99** (out of **4.00**) 
 
 ### Patiya Government College
 *Higher Secondary Certificate-HSC*  
