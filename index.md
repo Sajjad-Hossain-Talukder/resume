@@ -38,7 +38,7 @@ GPA: **5.00** (out of **5.00**)
 ---
 ## HONORS & ACHIEVEMENTS
 ---
-* 57<sup>nd</sup> position (Team - PUC Eternals) at <a href="https://codedrills.io/contests/icpc-asia-west-continent-final-contest-2022/scoreboard"> **ICPC Asia West Continent Final Contest 2022** </a>
+* 57<sup>th</sup> position (Team - PUC Eternals) at <a href="https://codedrills.io/contests/icpc-asia-west-continent-final-contest-2022/scoreboard"> **ICPC Asia West Continent Final Contest 2022** </a>
 * 52<sup>nd</sup> position (Team - PUC Eternals) at <a href="https://algo.codemarshal.org/contests/dhaka-22/standings"> **2022 ICPC ASIA DHAKA REGIONAL CONTEST hosted by GREEN UNIVERSITY OF BANGLADESH** </a>
 * 84<sup>th</sup> position (Team - PUC Eternals) at <a href="https://algo.codemarshal.org/contests/icpc-dhaka-22-preli/standings"> **2022 ICPC Asia Dhaka Regional Online Preliminary Contest Hosted by Green University of Bangladesh** </a>
 * 86<sup>th</sup> position (Team - PUC Eternals) at <a href="https://toph.co/c/buet-inter-university-2022/standings"> **BUET Inter University Programming Contest 2022** </a>  
