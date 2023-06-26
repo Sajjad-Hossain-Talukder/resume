@@ -27,10 +27,10 @@ GPA: **5.00** (out of **5.00**)
 
 <ul>
  <li> <a href="https://codeforces.com/profile/SajjadHuseyn"> <b>Codeforces</b> </a></li>
- <li> <a href="https://codeforces.com/profile/SajjadHuseyn"> <b>CodeChef</b> </a></li>
- <li> <a href="https://codeforces.com/profile/SajjadHuseyn"> <b>LightOJ</b> </a></li>
- <li> <a href="https://codeforces.com/profile/SajjadHuseyn"> <b>AtCoder</b> </a></li>
- <li> <a href="https://codeforces.com/profile/SajjadHuseyn"> <b>Leetcode</b> </a></li>
+ <li> <a href="https://www.codechef.com/users/sajjadhuseyn_t"> <b>CodeChef</b> </a></li>
+ <li> <a href="https://lightoj.com/user/sajjadhuseyn"> <b>LightOJ</b> </a></li>
+ <li> <a href="https://atcoder.jp/users/sajjadhuseyn"> <b>AtCoder</b> </a></li>
+ <li> <a href="https://leetcode.com/sajjadhuseyn/"> <b>Leetcode</b> </a></li>
  </ul>
 
 <br/>
@@ -38,7 +38,7 @@ GPA: **5.00** (out of **5.00**)
 ---
 ## HONORS & ACHIEVEMENTS
 ---
-
+* 57<sup>nd</sup> position (Team - PUC Eternals) at <a href="https://codedrills.io/contests/icpc-asia-west-continent-final-contest-2022/scoreboard"> **ICPC Asia West Continent Final Contest 2022** </a>
 * 52<sup>nd</sup> position (Team - PUC Eternals) at <a href="https://algo.codemarshal.org/contests/dhaka-22/standings"> **2022 ICPC ASIA DHAKA REGIONAL CONTEST hosted by GREEN UNIVERSITY OF BANGLADESH** </a>
 * 84<sup>th</sup> position (Team - PUC Eternals) at <a href="https://algo.codemarshal.org/contests/icpc-dhaka-22-preli/standings"> **2022 ICPC Asia Dhaka Regional Online Preliminary Contest Hosted by Green University of Bangladesh** </a>
 * 86<sup>th</sup> position (Team - PUC Eternals) at <a href="https://toph.co/c/buet-inter-university-2022/standings"> **BUET Inter University Programming Contest 2022** </a>  
@@ -57,13 +57,13 @@ GPA: **5.00** (out of **5.00**)
 * **[Automated Attendance Management](https://www.kaggle.com/sajjadhossaint/auto-attendance-using-cnn):** Automated Attendance system  
  **Technologies:** Python, CNN, Kaggle 
 * **[Acamedic Information System](https://github.com/Sajjad-Hossain-Talukder/PUAIS-Enrollment-Section):** Enrollment Section<br>
- **Technologies:** PHP(Laravel Framework), MySQL DB
+ **Technologies:** PHP (Laravel Framework), MySQL DB
 * **[SmartWeight](https://github.com/Sajjad-Hossain-Talukder/SmartWeight-RaspberryPi-HX711-based-Digital-Weight-Machine-with-Object-Detection):** RaspberryPi-HX711 based Digital Weight Machine with Object Detection <br>
- **Technologies:** Python, MySQL DB, RaspberryPi, HX711 Module, Load Cell
+ **Technologies:** Python, MySQL DB, Raspberry Pi, HX711 Module, Load Cell
 <br />
   
 ---
 ## SKILLS  
 ---
 * **Languages:** C, C++, Python, SQL
-* **Tools** &#124; **Technologies:** Selenium WebDriver, Gradle, TestNG, Jekyll, Git, JIRA
+
